@@ -1,0 +1,61 @@
+body {
+    background: #010416;
+    color: #a1a3af;
+    margin-top: 5rem;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #b9b8b8;
+  }
+  
+  .pitch-area {
+    background: #010416;
+    padding: 10px 20px;
+    border: 1px solid #21253a;
+    color: #ffffff;
+    border-radius: 3px;
+    margin-bottom: 20px;
+  }
+  .site-header .navbar-nav .nav-link {
+    color: #a1a3af;
+    font-family: 'Ms Gothic', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }
+
+  .site-header .navbar-nav .nav-link:hover {
+    color: whitesmoke;
+  }
+  
+  .site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+  }
+.section-title {
+    color: #a1a3af;
+}
+a.section-title:hover {
+  color: #dd236a;
+  text-decoration: none;
+  }
+  .section-content {
+    white-space: pre-line;
+    }
+.section {
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3
+  }
+.section a:hover {
+  color: #333;
+  text-decoration: none;
+  }
+.logo{
+  margin-left: -60px;
+  color: #dd236a;
+}
+.Aboutme{
+  color: #a1a3af;
+
+}
+.Aboutme h6{
+  color: #a1a3af;
+}
