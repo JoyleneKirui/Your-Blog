@@ -7,7 +7,7 @@ Joylene Kirui
 # Description
 This  is a personal blogging website where writers can post, edit and delete their blogs. Users who have signed up can view and comment on the blogs that has been posted by a writer.It also displays random quotes to inspire users.
 ## Live Link
-[View Site](https://YourBlog.herokuapp.com)
+[View Site](https://your--blog.herokuapp.com)
 
 ## User Story
 
