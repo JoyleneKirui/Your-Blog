@@ -1,7 +1,6 @@
 # YourBlog
 
 ## Author
-
 Joylene Kirui
 
 # Description
@@ -11,17 +10,20 @@ This  is a personal blogging website where writers can post, edit and delete the
 
 ## User Story
 
-* A user can view the most recent posts.
-* View and comment the blog posts on the site.
-* Register to be allowed to log in to the application
-* A user sees random quotes on the site
-* A writer can create a blog from the application and update or delete blogs I have created.
-
+* A user can view the blog posts on the site
+* A user can comment on blog posts
+* A user can view the most recent posts
+* A user can an email alert when a new post is made by joining a subscription.
+* A user can see random quotes on the site
+* A writer can sign in to the blog.
+* A writer can create a blog from the application.
+* A writer can delete comments that I find insulting or degrading.
+* A writer can update or delete blogs I have created.
 ## BDD
 | Behaviour | Input | Output |
 | :---------------- | :---------------: | ------------------: |
-| Load the page | **On page load** | Get all blogs, Select between signup and login|
-| Select SignUp| **Email**,**Username**,**Password** | Redirect to login|
+| Load the page | **On page load* | Get all blogs, Select between signup and login|
+| Select SignUp| **Email**,**Username**,**Password* | Redirect to login|
 | Select Login | **Username** and **password** | Redirect to page with blogs that have been posted by writes and be able to subscribe to the blog|
 | Select comment button | **Comment** | Form that you input your comment|
 | Click on submit |  | Redirect to all comments tamplate with your comment and other comments|
