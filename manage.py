@@ -4,7 +4,7 @@ from flask_migrate import Migrate
 migrate = Migrate()
 
 
-def create_app():
+def create_ap():
     migrate.init_app(app, db)
 
 if __name__ == '__main__':
