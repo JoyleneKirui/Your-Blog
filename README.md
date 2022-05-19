@@ -29,24 +29,24 @@ This  is a personal blogging website where writers can post, edit and delete the
 ## Development Installation
 To get the code..
 
-1. Cloning the repository:
-  ```bash
-  ```
-2. Move to the folder and install requirements
-  ```bash
-  cd Blog-Posts
-  pip install -r requirements.txt
-  ```
-3. Exporting Configurations
-  ```bash
-  export SQLALCHEMY_DATABASE_URI=postgresql+psycopg2://{User Name}:{password}@localhost/{database name}
-  ```
-4. Running the application
-  ```bash
-  python manage.py server
-  ```
-  ```
-Open the application on your browser `127.0.0.1:5000`.
+  1. Cloning the repository:
+    ```bash
+    ```
+  2. Move to the folder and install requirements
+    ```bash
+    cd Blog-Posts
+    pip install -r requirements.txt
+    ```
+  3. Exporting Configurations
+    ```bash
+    export SQLALCHEMY_DATABASE_URI=postgresql+psycopg2://{User Name}:{password}@localhost/{database name}
+    ```
+  4. Running the application
+    ```bash
+    python manage.py server
+    ```
+    ```
+  Open the application on your browser `127.0.0.1:5000`.
 
 ## Technology used
 
@@ -59,5 +59,5 @@ Open the application on your browser `127.0.0.1:5000`.
 If you have any questions or contributions, please email me at [joylinkirui@gmail.com]
 
 ## License
-* *MIT License:*
+*MIT License:*
 * Copyright (c) 2022 **Joylene Kirui**
