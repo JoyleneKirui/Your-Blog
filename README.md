@@ -1,4 +1,4 @@
-# Your Blog
+# YourBlog
 
 ## Author
 
@@ -56,7 +56,7 @@ To get the code..
 
 ## Contact Information 
 
-If you have any questions or contributions, please email me at [joylinkirui@gmail.com]
+If you have any questions or contributions, please email me at joylinkirui@gmail.com
 
 ## License
 *MIT License:*
